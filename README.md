@@ -30,14 +30,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Usage](#usage)
-  - [Testing](#testing)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
----
 
 ## Overview
 
@@ -167,6 +159,3 @@ Build Fantasy_Game from the source and intsall dependencies:
     ```
 
 3. **Install the dependencies:**
-
-
-<details closed>
