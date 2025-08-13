@@ -13,7 +13,7 @@
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Qt-41CD52.svg?style=flat&logo=qt&logoColor=white" alt="Qt" />
-  <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 </div>
